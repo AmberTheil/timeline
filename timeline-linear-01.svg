@@ -1,0 +1,210 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1000" viewBox="0 0 1400 1400">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-4, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-15, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke: #060305;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 2.8px;
+      }
+
+      .cls-2 {
+        fill: #f4d9ec;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        fill: #d4d4d4;
+      }
+
+      .cls-4 {
+        stroke-width: 3.4px;
+      }
+
+      .cls-5 {
+        fill: #f1d8eb;
+      }
+
+      .cls-6 {
+        stroke-width: 3.78px;
+      }
+
+      .cls-7 {
+        stroke-width: 3.42px;
+      }
+
+      .cls-8 {
+        stroke-width: 4.04px;
+      }
+
+      .cls-9 {
+        stroke-width: 3.97px;
+      }
+
+      .cls-10 {
+        stroke-width: 3.55px;
+      }
+
+      .cls-11 {
+        stroke-width: 4.5px;
+      }
+
+      .cls-12 {
+        stroke-width: 4.43px;
+      }
+
+      .cls-13 {
+        stroke-width: 3.98px;
+      }
+
+      .cls-14 {
+        stroke: #2f0d00;
+        stroke-width: 9px;
+      }
+
+      .cls-15 {
+        fill: #f8f5f6;
+        stroke-width: 2.03px;
+      }
+
+      .cls-16 {
+        font-size: 18.29px;
+        fill: #2f0d00;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+    </style>
+  </defs>
+  <title>timeline-linear</title>
+  <g id="emne-1">
+   <path id="info-box" data-name="info-box" class="HTML_placeholder cls-5" d="M386.9,243.07h238a0,0,0,0,1,0,0v99a14.43,14.43,0,0,1-14.43,14.43H401.33A14.43,14.43,0,0,1,386.9,342v-99A0,0,0,0,1,386.9,243.07Z"/>
+    <path id="overskrift" class="HTML_placeholder cls-3" d="M394,201.7H617.79a8.59,8.59,0,0,1,8.59,8.59v31.1a0,0,0,0,1,0,0H385.43a0,0,0,0,1,0,0v-31.1A8.59,8.59,0,0,1,394,201.7Z"/>
+    <g id="connection-line1">
+      <polyline class="cls-1" points="781.38 294.76 701.48 216.97 626.38 210.29"/>
+    </g>
+  </g>
+  <g id="emne-2">
+   <path id="info-box" data-name="info-box" class="HTML_placeholder cls-5" d="M1104.57,292.66h238.11a0,0,0,0,1,0,0v99A14.43,14.43,0,0,1,1328.25,406H1119a14.43,14.43,0,0,1-14.43-14.43v-99A0,0,0,0,1,1104.57,292.66Z"/>
+    <path id="overskrift" data-name="overskrift" class="HTML_placeholder cls-3" d="M1111.74,252h223.77a8.59,8.59,0,0,1,8.59,8.59v31.1a0,0,0,0,1,0,0H1103.15a0,0,0,0,1,0,0v-31.1A8.59,8.59,0,0,1,1111.74,252Z"/>
+    <g id="connection-line2">
+      <polyline class="cls-4" points="792.45 393.55 955.2 287.56 1103.15 275.93"/>
+    </g>
+  </g>
+  <g id="emne-3">
+   <path id="info-box" data-name="info-box" class="HTML_placeholder cls-5" d="M303.14,453.58H541.25a0,0,0,0,1,0,0v99A14.43,14.43,0,0,1,526.82,567H317.57a14.43,14.43,0,0,1-14.43-14.43v-99A0,0,0,0,1,303.14,453.58Z"/>
+    <path id="overskrift" data-name="overskrift" class="HTML_placeholder cls-3" d="M310.31,411.81H534.08a8.59,8.59,0,0,1,8.59,8.59v31.1a0,0,0,0,1,0,0H301.72a0,0,0,0,1,0,0V420.4A8.59,8.59,0,0,1,310.31,411.81Z"/>
+    <g id="connection-line3" data-name="connection-line">
+      <polyline class="cls-6" points="787.72 498.05 701.21 431.66 542.67 431.66"/>
+    </g>
+   
+  </g>
+  <g id="emne-4">
+   <path id="info-box" data-name="info-box" class="HTML_placeholder cls-5" d="M941.63,484.89h240.94a0,0,0,0,1,0,0v98.87a14.52,14.52,0,0,1-14.52,14.52H956.15a14.52,14.52,0,0,1-14.52-14.52V484.89A0,0,0,0,1,941.63,484.89Z"/>
+    <path id="overskrift" data-name="overskrift" class="HTML_placeholder cls-3" d="M950.22,444.06H1174a8.59,8.59,0,0,1,8.59,8.59v31.1a0,0,0,0,1,0,0H941.63a0,0,0,0,1,0,0v-31.1A8.59,8.59,0,0,1,950.22,444.06Z"/>
+   <g id="connection-line4" data-name="connection-line">
+      <polyline class="cls-7" points="792.45 602.55 883.73 469.39 943.68 451.5"/>
+    </g>
+  </g>
+  <g id="emne-5">
+   <path id="info-box" data-name="info-box" class="HTML_placeholder cls-5" d="M182.63,677.11H423.58a0,0,0,0,1,0,0V776a14.52,14.52,0,0,1-14.52,14.52H197.15A14.52,14.52,0,0,1,182.63,776V677.11A0,0,0,0,1,182.63,677.11Z"/>
+  <path id="overskrift" data-name="overskrift" class="HTML_placeholder cls-3" d="M191.22,635.41H415a8.59,8.59,0,0,1,8.59,8.59v31.1a0,0,0,0,1,0,0H182.63a0,0,0,0,1,0,0V644a8.59,8.59,0,0,1,8.59-8.59Z"/>
+    <g id="connection-line5" data-name="connection-line">
+      <polyline class="cls-8" points="788.95 703.15 593.84 605.91 422.19 647.02"/>
+    </g>
+  </g>
+  <g id="emne-6">
+   <path id="info-box" data-name="info-box" class="HTML_placeholder cls-5" d="M1191.63,660.46h240.94a0,0,0,0,1,0,0v98.87a14.52,14.52,0,0,1-14.52,14.52H1206.14a14.52,14.52,0,0,1-14.52-14.52V660.46A0,0,0,0,1,1191.63,660.46Z"/>
+    <path id="overskrift" data-name="overskrift" class="HTML_placeholder cls-3" d="M1200.21,619.27H1424a8.59,8.59,0,0,1,8.59,8.59V659a0,0,0,0,1,0,0H1191.63a0,0,0,0,1,0,0v-31.1A8.59,8.59,0,0,1,1200.21,619.27Z"/>
+    <g id="connection-line6" data-name="connection-line">
+      <polyline class="cls-9" points="794.45 811.55 910.29 683.28 1191.63 635.41"/>
+    </g>
+
+  </g>
+  <g id="emne-7">
+  
+  <path id="info-box" data-name="info-box" class="HTML_placeholder cls-5" d="M422.19,856H663.14a0,0,0,0,1,0,0v98.87a14.52,14.52,0,0,1-14.52,14.52H436.71a14.52,14.52,0,0,1-14.52-14.52V856A0,0,0,0,1,422.19,856Z"/>
+  <path id="overskrift" data-name="overskrift" class="HTML_placeholder cls-3" d="M430.78,813.91H654.55a8.59,8.59,0,0,1,8.59,8.59v31.1a0,0,0,0,1,0,0H422.19a0,0,0,0,1,0,0V822.5A8.59,8.59,0,0,1,430.78,813.91Z"/>
+    <g id="connection-line7" data-name="connection-line">
+      <polyline class="cls-10" points="788.95 916.05 706.87 827.8 665.14 827.8"/>
+    </g> 
+  </g>
+  <g id="emne-8">
+   <path id="info-box" data-name="info-box" class="HTML_placeholder cls-5" d="M982.68,882.57h240.94a0,0,0,0,1,0,0v98.87A14.52,14.52,0,0,1,1209.11,996H997.2a14.52,14.52,0,0,1-14.52-14.52V882.57A0,0,0,0,1,982.68,882.57Z"/>
+   <path id="overskrift" data-name="overskrift" class="HTML_placeholder cls-3" d="M991.27,841.41H1215a8.59,8.59,0,0,1,8.59,8.59v31.1a0,0,0,0,1,0,0H982.68a0,0,0,0,1,0,0V850A8.59,8.59,0,0,1,991.27,841.41Z"/>
+    <g id="connection-line8" data-name="connection-line">
+      <polyline class="cls-11" points="795 1020.55 885.88 874.78 982.68 861.25"/>
+    </g>
+    
+   
+  </g>
+  <!-- <g id="emne-9">
+    <path id="overskrift" data-name="overskrift" class="cls-3" d="M281.66,1033.17H505.43a8.59,8.59,0,0,1,8.59,8.59v31.1a0,0,0,0,1,0,0H273.07a0,0,0,0,1,0,0v-31.1A8.59,8.59,0,0,1,281.66,1033.17Z"/>
+    <path id="info-box" data-name="info-box" class="HTML_placeholder cls-5" d="M273.07,1074.31H514a0,0,0,0,1,0,0v98.87a14.52,14.52,0,0,1-14.52,14.52H287.59a14.52,14.52,0,0,1-14.52-14.52v-98.87A0,0,0,0,1,273.07,1074.31Z"/>
+    <g id="connection-line-8" data-name="connection-line">
+      <polyline class="cls-12" points="787.72 1120.87 711.97 1049.33 514.01 1051.07"/>
+    </g>
+  </g>
+  <g id="Emne-10">
+    <g id="connection-line-9" data-name="connection-line">
+      <polyline class="cls-13" points="792.45 1229.55 998.29 1120.03 1090.08 1114.89"/>
+    </g>
+    <path id="overskrift" data-name="overskrift" class="cls-3" d="M1098.66,1101h223.77a8.59,8.59,0,0,1,8.59,8.59v31.1a0,0,0,0,1,0,0H1090.08a0,0,0,0,1,0,0v-31.1A8.59,8.59,0,0,1,1098.66,1101Z"/>
+    <path id="info-box" data-name="info-box" class="cls-5" d="M1090.08,1142.2H1331a0,0,0,0,1,0,0v98.87a14.52,14.52,0,0,1-14.52,14.52H1104.59a14.52,14.52,0,0,1-14.52-14.52V1142.2A0,0,0,0,1,1090.08,1142.2Z"/>
+  </g> -->
+  <g id="timeline">
+    <line class="cls-14" x1="790.83" y1="177.21" x2="790.83" y2="1328.59"/>
+    <g id="Bullets">
+      <g>
+        <rect class="cls-15" x="764.21" y="1020.55" width="54.39" height="25.05" rx="2.88"/>
+        <text class="cls-16" transform="translate(772.88 1038.96)">1986</text>
+      </g>
+      <g>
+        <rect class="cls-15" x="764.21" y="916.05" width="54.39" height="25.05" rx="2.88"/>
+        <text class="cls-16" transform="translate(772.88 934.46)">1986</text>
+      </g>
+      <g>
+        <rect class="cls-15" x="764.8" y="811.55" width="54.39" height="25.05" rx="2.88"/>
+        <text class="cls-16" transform="translate(773.47 829.96)">1986</text>
+      </g>
+      <g>
+        <rect class="cls-15" x="764.96" y="707.05" width="54.39" height="25.05" rx="2.88"/>
+        <text class="cls-16" transform="translate(773.63 725.46)">1986</text>
+      </g>
+      <g>
+        <rect class="cls-15" x="764.12" y="602.55" width="54.39" height="25.05" rx="2.88"/>
+        <text class="cls-16" transform="translate(772.79 620.96)">1986</text>
+      </g>
+      <g>
+        <rect class="cls-15" x="763.8" y="498.05" width="54.39" height="25.05" rx="2.88"/>
+        <text class="cls-16" transform="translate(772.46 516.46)">1986</text>
+      </g>
+      <g>
+        <rect class="cls-15" x="763.75" y="1125.05" width="54.39" height="25.05" rx="2.88"/>
+        <text class="cls-16" transform="translate(772.42 1143.45)">1986</text>
+      </g>
+      <g>
+        <rect class="cls-15" x="762.26" y="393.55" width="54.39" height="25.05" rx="2.88"/>
+        <text class="cls-16" transform="translate(770.93 411.96)">1986</text>
+      </g>
+      <g>
+        <rect class="cls-15" x="763.8" y="1229.54" width="54.39" height="25.05" rx="2.88"/>
+        <text class="cls-16" transform="translate(772.46 1247.95)">1986</text>
+      </g>
+      <g>
+        <rect class="cls-15" x="764.12" y="289.05" width="54.39" height="25.05" rx="2.88"/>
+        <text class="cls-16" transform="translate(772.79 307.46)">1986</text>
+      </g>
+    </g>
+  </g>
+</svg>

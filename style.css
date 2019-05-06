@@ -1,0 +1,208 @@
+.cls-1,
+.cls-10,
+.cls-11,
+.cls-12,
+.cls-13,
+.cls-14,
+.cls-4,
+.cls-6,
+.cls-7,
+.cls-8,
+.cls-9 {
+  fill: none;
+}
+
+.cls-1,
+.cls-10,
+.cls-11,
+.cls-12,
+.cls-13,
+.cls-15,
+.cls-2,
+.cls-3,
+.cls-4,
+.cls-5,
+.cls-6,
+.cls-7,
+.cls-8,
+.cls-9 {
+  stroke: #060305;
+}
+
+.cls-1,
+.cls-10,
+.cls-11,
+.cls-12,
+.cls-13,
+.cls-14,
+.cls-15,
+.cls-2,
+.cls-3,
+.cls-4,
+.cls-5,
+.cls-6,
+.cls-7,
+.cls-8,
+.cls-9 {
+  stroke-miterlimit: 10;
+}
+
+.cls-1 {
+  stroke-width: 2.8px;
+}
+
+.cls-2 {
+  fill: #f4d9ec;
+}
+
+.cls-2,
+.cls-3,
+.cls-5 {
+  stroke-width: 4px;
+}
+
+.cls-3 {
+  fill: #d4d4d4;
+}
+
+.cls-4 {
+  stroke-width: 3.4px;
+}
+
+.cls-5 {
+  fill: #f1d8eb;
+}
+
+.cls-6 {
+  stroke-width: 3.78px;
+}
+
+.cls-7 {
+  stroke-width: 3.42px;
+}
+
+.cls-8 {
+  stroke-width: 4.04px;
+}
+
+.cls-9 {
+  stroke-width: 3.97px;
+}
+
+.cls-10 {
+  stroke-width: 3.55px;
+}
+
+.cls-11 {
+  stroke-width: 4.5px;
+}
+
+.cls-12 {
+  stroke-width: 4.43px;
+}
+
+.cls-13 {
+  stroke-width: 3.98px;
+}
+
+.cls-14 {
+  stroke: #2f0d00;
+  stroke-width: 9px;
+}
+
+.cls-15 {
+  fill: #f8f5f6;
+  stroke-width: 2.03px;
+}
+
+.cls-16 {
+  font-size: 18.29px;
+  fill: #2f0d00;
+  font-family: MyriadPro-Regular, Myriad Pro;
+}
+
+.hidden {
+  display: none;
+}
+
+.cls-2 {
+  position: absolute;
+}
+
+.svgplaceholder {
+  position: absolute;
+}
+
+.svgplaceholder img {
+  width: 30%;
+  margin: 5%;
+}
+
+.svgplaceholder {
+  margin-top: -1vw;
+  margin-left: 1vw;
+  display: grid;
+}
+
+@media screen and (min-width: 580px) {
+  .svgplaceholder {
+    grid-gap: 4px;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(2, 2fr);
+  }
+}
+
+.svgplaceholder {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-areas: "title-container title-container title-container title-container" "image-container image-container director-container director-container" "image-container image-container year-container year-container";
+}
+
+.title-container {
+  grid-area: title-container;
+}
+
+.billede-container {
+  grid-area: image-container;
+}
+
+.langbeskrivelse-container {
+  grid-area: director-container;
+}
+
+.link-container {
+  grid-area: year-container;
+}
+
+.cls-3 {
+  cursor: pointer;
+  z-index: 100;
+  border: 10px solid pink;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+.svgplaceholder {
+  display: inline-block;
+}
+
+.svgplaceholder .link-container {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.svgplaceholder:hover .link-container {
+  visibility: visible;
+}
